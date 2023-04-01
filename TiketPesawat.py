@@ -33,3 +33,10 @@ class TugasLaperak :
     print("Kelas Bisnis:", Methodnya.daftar_penumpang('bisnis'))
     print("Kelas Eksekutif:", Methodnya.daftar_penumpang('eksekutif'))
 
+print("cwcsdece")
+print("cwcsdece")
+print("cwcsdece")
+print("cwcsdece")
+print("cwcsdece")
+print("cwcsdece")
+print("cwcsdece")
