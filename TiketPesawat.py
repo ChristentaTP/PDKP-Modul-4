@@ -24,7 +24,7 @@ def pemesanan():
         tot_tiket = jum_tiket*harga
         os.system('cls')
         print("\n============================================="
-              "\nAnda telah berhasil melakukan pembelian tiket"
+              "\nAnda telah berhasil melskuksn pembelian tiket"
               "\n============================================="
               "\nNama pemesan:{}".format(len(numArray)))
         for x in numArray:
